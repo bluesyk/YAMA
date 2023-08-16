@@ -187,3 +187,5 @@ rule APT10_ChChes_powershell {
     	condition:
     		$v1c and ($v1a or $v1b)
 }
+
+
